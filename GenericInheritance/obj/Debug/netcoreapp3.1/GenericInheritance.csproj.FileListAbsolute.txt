@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\bin\Debug\netcoreapp3.1\GenericInheritance.exe
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\bin\Debug\netcoreapp3.1\GenericInheritance.deps.json
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\bin\Debug\netcoreapp3.1\GenericInheritance.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\bin\Debug\netcoreapp3.1\GenericInheritance.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\bin\Debug\netcoreapp3.1\GenericInheritance.dll
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\bin\Debug\netcoreapp3.1\GenericInheritance.pdb
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\obj\Debug\netcoreapp3.1\GenericInheritance.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\obj\Debug\netcoreapp3.1\GenericInheritance.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\obj\Debug\netcoreapp3.1\GenericInheritance.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\obj\Debug\netcoreapp3.1\GenericInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\obj\Debug\netcoreapp3.1\GenericInheritance.dll
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\obj\Debug\netcoreapp3.1\GenericInheritance.pdb
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\GenericInheritance\obj\Debug\netcoreapp3.1\GenericInheritance.genruntimeconfig.cache

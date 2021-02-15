@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.exe
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.deps.json
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.dll
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.pdb
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.dll
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.pdb
+C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.genruntimeconfig.cache
