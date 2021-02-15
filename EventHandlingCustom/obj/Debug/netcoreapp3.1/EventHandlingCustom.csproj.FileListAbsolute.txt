@@ -4,7 +4,6 @@ C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandlingCustom\bin\Debug\
 C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandlingCustom\bin\Debug\netcoreapp3.1\EventHandlingCustom.runtimeconfig.dev.json
 C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandlingCustom\bin\Debug\netcoreapp3.1\EventHandlingCustom.dll
 C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandlingCustom\bin\Debug\netcoreapp3.1\EventHandlingCustom.pdb
-C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandlingCustom\obj\Debug\netcoreapp3.1\EventHandlingCustom.csprojAssemblyReference.cache
 C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandlingCustom\obj\Debug\netcoreapp3.1\EventHandlingCustom.AssemblyInfoInputs.cache
 C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandlingCustom\obj\Debug\netcoreapp3.1\EventHandlingCustom.AssemblyInfo.cs
 C:\Users\ADMIN\Desktop\Interview\C#\RevisedCSharp\EventHandlingCustom\obj\Debug\netcoreapp3.1\EventHandlingCustom.csproj.CoreCompileInputs.cache
